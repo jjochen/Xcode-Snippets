@@ -1,8 +1,10 @@
 // __strong self
 // Declare strong reference to weak reference
 //
-// Platform: All
+// IDECodeSnippetIdentifier: AC174645-8F42-4941-B7C8-D564EFA0011E
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 __strong __typeof(<#weakSelf#>)strongSelf = <#weakSelf#>;

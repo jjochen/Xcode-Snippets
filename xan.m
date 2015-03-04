@@ -1,8 +1,10 @@
 // XCT Assert Nil
 // Assert for XCTest
 //
-// Platform: All
+// IDECodeSnippetIdentifier: FF992EFC-E5FA-4E9E-BA86-E25ED48ED958
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 XCTAssertNil(<#expression#>, <#message#>);
